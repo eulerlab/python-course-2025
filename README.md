@@ -2,7 +2,7 @@
 This repository contains information about the course _"Basic Programming - Introduction into Python"_ (2025).  
 
 ## Acknowledgments
-In this class, we will follow largely (but not exclusively) the course [NESC 3505 Neural Data Science](https://neuraldatascience.io/intro.html), developed at Dalhousie University, and which is an open educational resource.
+In this class, we will follow largely (but not exclusively) the course [NESC 3505 Neural Data Science](https://neuraldatascience.io/intro.html), developed at Dalhousie University as an open educational resource.
 
 ## Course structure
 ### Approach
