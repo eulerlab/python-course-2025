@@ -21,13 +21,13 @@ __During the sessions__, we will discuss what you learned, where you encountered
 > _Important: The links to chapters point at the original class material, whereas the notebooks you will find in your `bwJupyter` environment - as demonstrated in the first session._
 
 ## 25.4. | Introduction, Setup, Project overview
-### To prepare before:
+#### To prepare before:
 Read chapter(s):
 - "About This Course" (all sections)
 - "Introduction to Data Science" (all sections)
 
 ## 02.05. | Variables & Assignment, Data Types & Conversion, Python Built-ins, Lists, Dictionaries
-### To prepare before:
+#### To prepare before:
 Read chapter(s):
 - "Introducing Python"
 Do notebook(s) in sections:
