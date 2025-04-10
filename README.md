@@ -18,7 +18,7 @@ __Before every session__, you need to read a few chapters and do the respective 
 
 __During the sessions__, we will discuss what you learned, where you encountered problems, and how to solve these.
 
-> _Important: The links to chapters point at the original class material, whereas the notebooks you will find in your `bwJupyter` environment - as demonstrated in the first session.
+> _Important: The links to chapters point at the original class material, whereas the notebooks you will find in your `bwJupyter` environment - as demonstrated in the first session._
 
 ## 25.4. | Introduction, Setup, Project overview
 ### To prepare before:
