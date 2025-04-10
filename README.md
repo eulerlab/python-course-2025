@@ -21,18 +21,13 @@ __During the sessions__, we will discuss what you learned, where you encountered
 > _Important: The links to chapters point at the original class material, whereas the notebooks you will find in your `bwJupyter` environment - as demonstrated in the first session._
 
 ## 25.4. | Introduction, Setup, Project overview
-#### To prepare before:
-Read chapter(s):
-- "About This Course" (all sections)
-- "Introduction to Data Science" (all sections)
+__To prepare before:__
+- Read chapters ["About This Course"](https://neuraldatascience.io/1-intro/why.html) (all sections) and ["Introduction to Data Science"](https://neuraldatascience.io/2-nds/introduction.html) (all sections)
 
 ## 02.05. | Variables & Assignment, Data Types & Conversion, Python Built-ins, Lists, Dictionaries
-#### To prepare before:
-Read chapter(s):
-- "Introducing Python"
-Do notebook(s) in sections:
-- "Preliminaries"
-- "Data Types"
+__To prepare before:__
+- Read chapter ["Introducing Python"](https://neuraldatascience.io/3-python/introduction.html)
+- Do the notebooks in sections "Preliminaries" and "Data Types"
 
 ## 09.05. | For loops, Conditionals, pandas, Looping over datafiles
 Coming soon
