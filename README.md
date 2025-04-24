@@ -26,40 +26,44 @@ __To prepare before:__
 
 ## 02.05. | Variables & Assignment, Data Types & Conversion, Python Built-ins, Lists, Dictionaries
 __To prepare before:__
-- Read chapter ["Introducing Python"](https://neuraldatascience.io/3-python/introduction.html)
-- Do the notebooks in sections "Preliminaries" and "Data Types"
+- Read chapter ["Introducing Python"](https://neuraldatascience.io/3-python/introduction.html); you can ignore the section `Deactivate AI for Now`. Also, read the next chapter with the respective learning objectives.
+- On bwJupyter: do the exercises in `1-Introducing-Python\1a` and submit the exercises to ILIAS.
 
 ## 09.05. | For loops, Conditionals, pandas, Looping over datafiles
-Coming soon
+__To prepare before:__
+- On bwJupyter: do the exercises in `1-Introducing-Python\1b` and submit the exercises to ILIAS.
 
 ## 16.05. | Visualisation with Matplotlib, Procedural versus Object-Oriented Plotting in Matplotlib, Subplots
-Coming soon
+__To prepare before:__
+- Read chapter ["Introduction to Data Visualization"](https://neuraldatascience.io/4-viz/introduction.html) and the respective learning objectives.
+- On bwJupyter: do the exercises in `2-Visualizing-Data\2a` and submit the exercises to ILIAS.
 
 ## 23.05. | DataTypes, Seaborn, Human Factors
+__To prepare before:__
+- On bwJupyter: do the exercises in `2-Visualizing-Data\2b` and submit the exercises to ILIAS.
+
+## 30.05. | AI & IDEs 
 Coming soon
 
-## 30.05. | Intro to EDA & Repeated Measures Data, Data Cleaning and Outliers
+## 06.06. | Intro to EDA & Repeated Measures Data, Data Cleaning and Outliers
 Coming soon
 
-## 06.06. | Numpy, Tests (Scipy)
+## 20.06. | Numpy, Tests (Scipy)
 Coming soon
 
-## 20.06. | GitHub
-Coming soon
-
-## 27.06. | Data Science Project 1
+## 27.06. | GitHub
 Coming soon
 
 ## 04.07. | Data Science Project 1
 Coming soon
 
-## 11.07. | Data Science Project 2
+## 11.07. | Data Science Project 1
 Coming soon
 
 ## 18.07. | Data Science Project 2
 Coming soon
 
-## 25.07. | AI, IDE
+## 25.07. | Data Science Project 2
 Coming soon
 
 
