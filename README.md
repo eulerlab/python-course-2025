@@ -9,7 +9,7 @@ In this class, we will follow largely (but not exclusively) the course [NESC 350
 This course follows an inverted classroom approach, which means you prepare the material for the sessions at home, leaving the actual sessions for discussions, questions, and problem-solving.
 
 ### Schedule
-
+ <img src="https://github.com/eulerlab/python-course-2025/blob/main/python-course-2025-schedule_v2.png" alt="alt text" width="600"/>
 
 ### Materials
 The materials consist of
