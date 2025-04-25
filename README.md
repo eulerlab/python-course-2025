@@ -28,10 +28,10 @@ __To prepare before:__
 - Read chapters ["About This Course"](https://neuraldatascience.io/1-intro/why.html) (all sections) and ["Introduction to Data Science"](https://neuraldatascience.io/2-nds/introduction.html) (all sections)
 
 __During the class:__
-- Why this course? About adult learners and your motivation to learn Python, your programming/Python background, that the only way to learn to code is to write it, the importance of coding skills for science and beyond, and the use of AI tools.
-- The organisation of this course. Time budget outside the classroom, videos as the last resort, exercises and final project.
-- Setting up `bwJupyter.de` and accessing the curse material. How to submit exercises.
-- Miscellaneous
+- _Why this course?_ About adult learners and your motivation to learn Python, your programming/Python background, that the only way to learn to code is to write it, the importance of coding skills for science and beyond, and the use of AI tools.
+- _The organisation of this course._ Time budget outside the classroom, videos as the last resort, exercises and final project.
+- _Setting up `bwJupyter.de`__ and accessing the curse material. How to submit exercises.
+- _Getting started_ with the chapters for the following class.
 
 ## 02.05. | Variables & Assignment, Data Types & Conversion, Python Built-ins, Lists, Dictionaries
 __To prepare before:__
