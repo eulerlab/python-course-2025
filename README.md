@@ -23,6 +23,8 @@ __During the sessions__, we will discuss what you learned, where you encountered
 
 > _Important: The links to chapters point at the original class material, whereas the notebooks you will find in your `bwJupyter` environment - as demonstrated in the first session._
 
+[Link to bwJupyter environment](https://hub.bwjupyter.de/services/profilemanagement/add?profile=cc0f3dc4-ec2d-42ac-9b5e-84a67ccc915c)
+
 ## 25.4. | Introduction, Setup, Project overview
 __To prepare before:__
 - Read chapters ["About This Course"](https://neuraldatascience.io/1-intro/why.html) (all sections) and ["Introduction to Data Science"](https://neuraldatascience.io/2-nds/introduction.html) (all sections)
