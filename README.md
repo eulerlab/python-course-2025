@@ -8,6 +8,9 @@ In this class, we will follow largely (but not exclusively) the course [NESC 350
 ### Approach
 This course follows an inverted classroom approach, which means you prepare the material for the sessions at home, leaving the actual sessions for discussions, questions, and problem-solving.
 
+### Schedule
+
+
 ### Materials
 The materials consist of
 - Online chapters, which will provide you with the respective background
