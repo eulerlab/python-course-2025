@@ -24,6 +24,7 @@ __During the sessions__, we will discuss what you learned, where you encountered
 > _Important: The links to chapters point at the original class material, whereas the notebooks you will find in your `bwJupyter` environment - as demonstrated in the first session._
 
 [Link to bwJupyter environment](https://hub.bwjupyter.de/services/profilemanagement/add?profile=cc0f3dc4-ec2d-42ac-9b5e-84a67ccc915c)
+[Link to Zoom room for screen sharing](https://med-uni-tuebingen-de.zoom-x.de/j/61228841347?pwd=baExSBbdq2wUt1U4bBlQt6DbTshsxI.1)
 
 ## 25.4. | Introduction, Setup, Project overview
 __To prepare before:__
