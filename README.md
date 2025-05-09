@@ -17,7 +17,9 @@ The materials consist of
 - Jupyter notebooks, in which you can learn and practice Python concepts
 - YouTube videos, which go through the notebooks step-by-step. We highly recommand to try to do the notebooks first by yourself, and only use the videos if you encounter major difficulties
 
-__Before every session__, you need to read a few chapters and do the respective Jupyter notebooks. The notebooks are divided into a lesson part, where the concepts are introduced and demonstrated, and an exercise part, where you can apply the knowledge just gained. The latter exercise notebooks need to be submitted to the `Exercise` folder in ILIAS.
+__Before every session__, you need to read a few chapters and do the respective Jupyter notebooks. The notebooks are divided into a lesson part, where the concepts are introduced and demonstrated, and an exercise part, where you can apply the knowledge just gained. The latter exercise notebooks (name starts with `x_`, e.g. `x_for-loops.ipynb`) need to be submitted to the `Exercise` folder in ILIAS, following the instructions below.
+
+__Submission guidelines__: Put all exercise-noteboks in a *single* zip-file. The name of the zip-file should start with the number of the exercise (e.g. 1a or 2b) and should end with your last name (e.g. 2a-Euler). Do not submit the lecture notebooks, i.e. submit `x_for-loops.ipynb` but not `for-loops.ipynb`.
 
 __During the sessions__, we will discuss what you learned, where you encountered problems, and how to solve these.
 
