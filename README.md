@@ -58,7 +58,12 @@ __To prepare before:__
 - On bwJupyter: do the exercises in `2-Visualizing-Data\2b` and submit the exercises to ILIAS.
 
 ## 30.05. | AI & IDEs 
-Coming soon
+__To prepare before:__
+- nothing
+
+__Lecture:__
+- A demonstration of modern AI assistants for coding.
+- A demonstration of modern [IDEs](https://en.wikipedia.org/wiki/Integrated_development_environment) that make coding, debugging and version control much easier.
 
 ## 06.06. | Intro to EDA & Repeated Measures Data, Data Cleaning and Outliers
 Coming soon
