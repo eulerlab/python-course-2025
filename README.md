@@ -66,7 +66,9 @@ __Lecture:__
 - A demonstration of modern [IDEs](https://en.wikipedia.org/wiki/Integrated_development_environment) that make coding, debugging and version control much easier.
 
 ## 06.06. | Intro to EDA & Repeated Measures Data, Data Cleaning and Outliers
-Coming soon
+- Read chapter ["Working with Repeated Measures Data"](https://neuraldatascience.io/5-eda/repeated_measures.html)
+- Read chapter ["Data Cleaning - Dealing with Outliers"](https://neuraldatascience.io/5-eda/data_cleaning.html)
+- On bwJupyter: do the exercises in `3-EDA\x_data_cleaning.ipynb` and  `3-EDA\x_repeated_measures.ipynb` and submit the exercises to ILIAS.
 
 ## 20.06. | Numpy, Tests (Scipy)
 Coming soon
