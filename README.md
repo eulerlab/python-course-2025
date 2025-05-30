@@ -65,6 +65,8 @@ __Lecture:__
 - A demonstration of modern AI assistants for coding.
 - A demonstration of modern [IDEs](https://en.wikipedia.org/wiki/Integrated_development_environment) that make coding, debugging and version control much easier.
 
+The lecture presentation was uploaded to Ilias.
+
 ## 06.06. | Intro to EDA & Repeated Measures Data, Data Cleaning and Outliers
 __To prepare before:__
 - Read chapter ["Working with Repeated Measures Data"](https://neuraldatascience.io/5-eda/repeated_measures.html)
