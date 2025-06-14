@@ -74,7 +74,10 @@ __To prepare before:__
 - On bwJupyter: do the exercises in `3-EDA\3a` and submit the exercises to ILIAS.
 
 ## 20.06. | Numpy, Tests (Scipy)
-Coming soon
+__To prepare before:__
+- Read chapter ["Basic Statistics in Python: t tests with SciPy"](https://neuraldatascience.io/5-eda/ttests.html)
+
+- On bwJupyter: do the exercise in `3-EDA\3b` and submit the exercise to ILIAS.
 
 ## 27.06. | GitHub
 Coming soon
