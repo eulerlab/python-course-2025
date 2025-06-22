@@ -81,6 +81,7 @@ __To prepare before:__
 ## 27.06. | GitHub
 __To prepare before:__
 - Read the following short chapters on GitHub: ["Clone a Repository"](https://neuraldatascience.io/2b-setup/clone.html), ["Exploring the GitHub Repository view"](https://neuraldatascience.io/2b-setup/github_repo.html), ["Editing, Pushing, and Committing"](https://neuraldatascience.io/2b-setup/edit_commit_push.html), and ["Edit the README File"](https://neuraldatascience.io/2b-setup/edit_readme.html)
+- No exercises to prepare
 
 ## 04.07. | Data Science Project 1
 Coming soon
