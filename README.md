@@ -84,7 +84,9 @@ __To prepare before:__
 - No exercises to prepare
 
 ## 04.07. | Data Science Project 1
-Coming soon
+__To prepare before:__
+- Create a GitHub repository and submit a file with the link. If you already use GitHub, you don't have to create a new repository, just submit a file with the link to your most complete repository.
+- Read the chapters ["Introduction to Single Unit Data"](https://neuraldatascience.io/6-single_unit/introduction.html), ["Learning Objectives"](https://neuraldatascience.io/6-single_unit/learning_objectives.html), and all sections in ["Single Unit Data and Spike Trains"](https://neuraldatascience.io/6-single_unit/single_unit_intro.html)
 
 ## 11.07. | Data Science Project 1
 Coming soon
